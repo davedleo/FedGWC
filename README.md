@@ -1,7 +1,7 @@
 # FedGWC
 
 Code for our ICML 2025 paper: **Interaction-Aware Gaussian Weighting for Clustered Federated Learning**  
-Alessandro Licciardi, Davide Leo, Eros Fanì, Barbara Caputo, Marco Ciccone
+Alessandro Licciardi*, Davide Leo*, Eros Fanì, Barbara Caputo, Marco Ciccone
 
 ## Abstract
 
